@@ -1,7 +1,7 @@
 import React from "react";
 import { Navbar } from "../navbar";
 import { Banner } from "../Banner";
-import ArrowIcon from "../../downArrow.png";
+import ArrowIcon from "../../images/downArrow.png";
 import { SecondScreen } from "./secondScreen";
 import { ThirdScreen } from "./thirdScreen";
 import { FourthScreen } from "./fourthScreen";

@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import { ItemViewContainer } from "./secondScreen";
 
 const HeaderText = styled.h1`
   position: absolute;

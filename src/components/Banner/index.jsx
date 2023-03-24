@@ -1,6 +1,6 @@
 import React from "react";
 import styled from "styled-components";
-import SearchIcon from "../../Vector.png";
+import SearchIcon from "../../images/Vector.png";
 
 const BannerContainer = styled.div`
   left: 178px;

@@ -34,17 +34,17 @@
 }
 
 .bed-room-image-container {
-  background: url("./bedRoomImage.png");
+  background: url("./images/bedRoomImage.png");
   left: 65px;
 }
 
 .living-room-image-container {
-  background: url("./livingRoomImage.png");
+  background: url("./images/livingRoomImage.png");
   left: 595px;
 }
 
 .pantry-room-image-container {
-  background: url("./pantryImage.png");
+  background: url("./images/pantryImage.png");
   width: 400px;
   left: 98px;
   height: 266.99px;
@@ -52,7 +52,7 @@
 }
 
 .dining-room-image-container {
-  background: url("./diningRoom.png");
+  background: url("./images/diningRoom.png");
   width: 400px;
   left: 98px;
   height: 502.58px;
@@ -60,7 +60,7 @@
 }
 
 .drawing-room-image-container {
-  background: url("./drawingRoomImage.png");
+  background: url("./images/drawingRoomImage.png");
   width: 500px;
   left: 555px;
   height: 500px;
@@ -68,7 +68,7 @@
 }
 
 .hall-room-image-container {
-  background: url("./hallImage.png");
+  background: url("./images/hallImage.png");
   width: 500px;
   left: 555px;
   height: 333.74px;

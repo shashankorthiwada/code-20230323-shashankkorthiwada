@@ -1,7 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import BedRoomImage from "../../bedRoomImage.png";
-import LivingRoomImage from "../../livingRoomImage.png";
 
 const HeaderText = styled.h1`
   position: absolute;
