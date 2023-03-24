@@ -8,6 +8,239 @@
   /* width: 1152px; */
   height: 700px;
   border-radius: 30px 30px 0px 0px;
+  background-size: cover;
+}
+
+.second-screen {
+  position: relative;
+  width: 1152px;
+  height: 700px;
+  background: #ffffff;
+}
+
+.third-screen {
+  position: relative;
+  width: 1152px;
+  height: 700px;
+  background: #ffffff;
+}
+
+.fourth-screen {
+  position: relative;
+  width: 1152px;
+  height: 700px;
+  background: #ffffff;
+  border-radius: 0px 0px 30px 30px;
+}
+
+.bed-room-image-container {
+  background: url("./bedRoomImage.png");
+  left: 65px;
+}
+
+.living-room-image-container {
+  background: url("./livingRoomImage.png");
+  left: 595px;
+}
+
+.pantry-room-image-container {
+  background: url("./pantryImage.png");
+  width: 400px;
+  left: 98px;
+  height: 266.99px;
+  top: 203px;
+}
+
+.dining-room-image-container {
+  background: url("./diningRoom.png");
+  width: 400px;
+  left: 98px;
+  height: 502.58px;
+  /* top: 556px; */
+}
+
+.drawing-room-image-container {
+  background: url("./drawingRoomImage.png");
+  width: 500px;
+  left: 555px;
+  height: 500px;
+  top: 66px;
+}
+
+.hall-room-image-container {
+  background: url("./hallImage.png");
+  width: 500px;
+  left: 555px;
+  height: 333.74px;
+  top: 203px;
+}
+
+.bed-room-dimension {
+  left: 91px;
+}
+
+.living-room-dimension {
+  left: 625px;
+}
+
+.bed-room-description-text {
+  left: 118px;
+}
+
+.living-room-description-text {
+  left: 652px;
+}
+
+.bed-room-price-pill {
+  left: 118px;
+  width: 80px;
+  top: 575px;
+  height: 30px;
+}
+
+.living-room-price-pill {
+  left: 652px;
+  width: 80px;
+  top: 575px;
+  height: 30px;
+}
+
+.bed-room-dimension-pill {
+  left: 234px;
+  width: 80px;
+  top: 575px;
+  height: 30px;
+}
+
+.living-room-dimension-pill {
+  left: 768px;
+  width: 80px;
+  top: 575px;
+  height: 30px;
+}
+
+.bed-room-book-pill {
+  left: 394px;
+  width: 100px;
+  top: 555px;
+  height: 50px;
+}
+
+.living-room-book-pill {
+  left: 924px;
+  width: 100px;
+  top: 555px;
+  height: 50px;
+}
+
+.bed-room-price-text {
+  width: 31px;
+  left: 143px;
+  top: 580px;
+  font-weight: 400;
+}
+
+.living-room-price-text {
+  width: 51px;
+  left: 666px;
+  top: 580px;
+  font-weight: 400;
+}
+
+.bed-room-dimension-text {
+  width: 40px;
+  left: 254px;
+  top: 580px;
+  font-weight: 400;
+}
+
+.living-room-dimension-text {
+  width: 51px;
+  left: 782px;
+  top: 580px;
+  font-weight: 400;
+}
+
+.bed-room-book-text {
+  width: 49px;
+  left: 420px;
+  top: 570px;
+  font-weight: 500;
+}
+
+.living-room-book-text {
+  width: 49px;
+  left: 950px;
+  top: 570px;
+  font-weight: 500;
+}
+
+.pantry-description-view {
+  left: 123px;
+  top: 420px;
+  width: 350px;
+}
+
+.hall-description-view {
+  left: 587px;
+  top: 487px;
+  width: 350px;
+}
+
+.dining-description-view {
+  left: 113px;
+  top: 447px;
+  width: 350px;
+}
+
+.drawing-description-view {
+  left: 635px;
+  top: 510px;
+  width: 350px;
+}
+
+.pantry-description-text {
+  width: 106px;
+  left: 153px;
+  top: 435px;
+}
+
+.hall-description-text {
+  width: 113px;
+  left: 617px;
+  top: 502px;
+}
+
+.dining-description-text {
+  width: 121px;
+  left: 130px;
+  top: 455px;
+}
+
+.drawing-description-text {
+  width: 123px;
+  left: 645px;
+  top: 525px;
+}
+
+.pantry-description-sub-text {
+  left: 153px;
+  top: 474px;
+}
+
+.hall-description-sub-text {
+  left: 617px;
+  top: 541px;
+}
+
+.dining-description-sub-text {
+  left: 128px;
+  top: 495px;
+}
+
+.drawing-description-sub-text {
+  left: 650px;
+  top: 560px;
 }
 
 .App-logo {
